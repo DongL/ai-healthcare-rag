@@ -1,4 +1,4 @@
-# Healthcare RAG API
+# MediRAG: Healthcare Document Retrieval System
 
 A production-ready Retrieval-Augmented Generation (RAG) system for healthcare document retrieval, built with FastAPI, ChromaDB, and OpenAI integration.
 
