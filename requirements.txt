@@ -1,0 +1,51 @@
+# Production dependencies - pinned versions for reproducibility
+# Last updated: 2025-10-25
+
+# Web framework
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+uvloop==0.21.0
+httptools==0.6.4
+
+# ML/AI Core
+sentence-transformers==3.2.1
+numpy==1.26.4
+transformers==4.46.3
+
+# Vector Databases
+chromadb==0.4.24
+faiss-cpu==1.9.0
+
+# PyTorch CPU (installed separately to avoid index conflicts)
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.5.1+cpu
+
+# Data processing
+pandas==2.2.3
+
+# Optional: Advanced RAG features
+openai==1.54.4
+httpx==0.27.2  # Pin compatible version for openai
+rank-bm25==0.2.2
+evaluate==0.4.3
+rouge-score==0.1.2
+
+# Optional: Vector databases (comment out if not used)
+# pinecone-client==5.0.1
+# pymilvus==2.4.8
+
+# Validation & utilities
+pydantic==2.9.2
+pydantic-settings==2.6.1
+python-dotenv==1.0.1
+
+# Production dependencies
+gunicorn==23.0.0
+
+# Development only (install separately)
+# pytest==8.3.3
+# pytest-asyncio==0.24.0
+# black==24.10.0
+# ruff==0.7.3
+# ipykernel==6.29.5
+# jupyter==1.1.1
