@@ -1,0 +1,9 @@
+# Renal Replacement Therapy: Hemodialysis and Peritoneal Dialysis
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+When chronic kidney disease progresses to kidney failure, renal replacement therapy becomes necessary to remove metabolic waste products, correct electrolyte and acid-base derangements, and manage volume status that the native kidneys can no longer adequately regulate. The two principal dialysis modalities are hemodialysis, in which blood is circulated through an extracorporeal circuit and filtered across a semipermeable membrane against a dialysate solution, and peritoneal dialysis, in which the patient's own peritoneal membrane serves as the filtering surface using dialysate instilled into and drained from the abdominal cavity.
+
+Hemodialysis is most commonly performed at a dialysis center three times weekly, requiring reliable vascular access, ideally a surgically created arteriovenous fistula, which offers lower infection and complication rates than a central venous catheter, though a fistula requires several weeks to months to mature before use. Peritoneal dialysis is typically performed at home, either manually several times daily (continuous ambulatory peritoneal dialysis) or overnight using an automated cycler, and offers greater flexibility and preservation of residual kidney function, but requires a functioning peritoneal cavity and the patient's ability to perform sterile technique to avoid peritonitis.
+
+The choice between modalities depends on patient preference, comorbidities, home support, and vascular or peritoneal anatomy, and many patients are counseled on both options prior to starting dialysis. Kidney transplantation, when feasible, generally offers superior survival and quality of life compared with long-term dialysis and remains the preferred treatment for eligible patients with kidney failure.

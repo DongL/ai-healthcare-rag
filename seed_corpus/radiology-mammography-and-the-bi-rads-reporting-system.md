@@ -1,0 +1,9 @@
+# Mammography and the BI-RADS Reporting System
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Mammography uses low-dose X-ray imaging to detect breast abnormalities, including masses, architectural distortion, and microcalcifications, often before they are palpable on clinical examination. Screening mammography is recommended at regular intervals for average-risk women beginning in their forties, with the exact starting age and frequency varying somewhat between guideline bodies, while women at elevated hereditary risk, such as BRCA1 or BRCA2 mutation carriers, may begin screening earlier and supplement mammography with breast MRI.
+
+Findings are standardized using the Breast Imaging-Reporting and Data System (BI-RADS), a categorical scale ranging from BI-RADS 0, indicating incomplete assessment requiring additional imaging, through BI-RADS 1 and 2 for normal or benign findings, BI-RADS 3 for probably benign findings warranting short-interval follow-up, BI-RADS 4 for suspicious findings warranting biopsy, to BI-RADS 5 for findings highly suggestive of malignancy. This standardized language improves communication between radiologists and referring clinicians and supports consistent management decisions.
+
+When a suspicious finding is identified, diagnostic mammography with additional views, targeted ultrasound, and image-guided core needle biopsy are used to further characterize the lesion and obtain tissue diagnosis. Digital breast tomosynthesis, which acquires multiple low-dose projections to reconstruct a pseudo-three-dimensional image of the breast, has improved cancer detection rates and reduced false-positive recalls compared with conventional two-dimensional mammography alone, particularly in women with dense breast tissue.

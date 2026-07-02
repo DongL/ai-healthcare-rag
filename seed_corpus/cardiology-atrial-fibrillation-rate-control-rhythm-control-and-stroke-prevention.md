@@ -1,0 +1,9 @@
+# Atrial Fibrillation: Rate Control, Rhythm Control, and Stroke Prevention
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Atrial fibrillation is the most common sustained cardiac arrhythmia, characterized by disorganized atrial electrical activity that produces an irregularly irregular ventricular rhythm on electrocardiogram and loss of coordinated atrial contraction. It may be paroxysmal, persistent, or permanent, and risk factors include advancing age, hypertension, obesity, obstructive sleep apnea, hyperthyroidism, and structural heart disease. Because stagnant blood in the fibrillating left atrial appendage predisposes to thrombus formation, atrial fibrillation substantially raises the risk of embolic stroke.
+
+Management follows two parallel goals: controlling ventricular rate or restoring sinus rhythm, and preventing thromboembolism. Rate control is typically achieved with beta-blockers or non-dihydropyridine calcium channel blockers such as diltiazem, while rhythm control may involve antiarrhythmic drugs, electrical cardioversion, or catheter ablation, particularly in younger or symptomatic patients. The choice between strategies is individualized, as trials have generally shown similar mortality outcomes between rate and rhythm control approaches.
+
+Stroke risk is stratified using the CHA2DS2-VASc score, which incorporates congestive heart failure, hypertension, age, diabetes, prior stroke, vascular disease, and sex category. Patients with a sufficiently elevated score are anticoagulated, most often with a direct oral anticoagulant such as apixaban or rivaroxaban, which has largely supplanted warfarin outside of mechanical valve or significant mitral stenosis cases due to more predictable dosing and lower intracranial hemorrhage risk. Bleeding risk is weighed using tools such as the HAS-BLED score before committing a patient to long-term anticoagulation.

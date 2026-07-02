@@ -1,0 +1,9 @@
+# Colorectal Cancer Screening and Treatment Overview
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Colorectal cancer typically develops through a well-characterized adenoma-to-carcinoma sequence, in which accumulating genetic mutations transform benign colonic polyps into invasive malignancy over years to decades, a timeline that underlies the rationale for screening programs aimed at detecting and removing precancerous polyps before they progress. Screening options include colonoscopy, which allows direct visualization and polypectomy in the same procedure, stool-based tests such as the fecal immunochemical test, and CT colonography, with the appropriate interval depending on the modality chosen and individual risk factors, including family history and certain hereditary syndromes such as Lynch syndrome.
+
+Presenting symptoms of established colorectal cancer can include rectal bleeding, change in bowel habits, unexplained iron deficiency anemia, and unintentional weight loss, though early-stage disease detected through screening is often asymptomatic. Diagnosis is confirmed by biopsy at colonoscopy, and staging relies on CT imaging of the chest, abdomen, and pelvis to assess for metastatic spread, most commonly to the liver and lungs, along with pathologic assessment of the surgical specimen.
+
+Surgical resection remains the primary treatment for localized disease, with adjuvant chemotherapy, often a regimen such as FOLFOX combining fluorouracil, leucovorin, and oxaliplatin, offered for higher-stage tumors to reduce recurrence risk. Metastatic disease is managed with systemic chemotherapy, frequently combined with targeted agents directed against pathways such as VEGF or EGFR depending on tumor molecular profile, and selected patients with limited liver metastases may benefit from surgical or ablative liver-directed therapy.

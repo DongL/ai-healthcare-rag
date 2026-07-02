@@ -1,0 +1,9 @@
+# Migraine: Pathophysiology, Acute Treatment, and Prevention
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Migraine is a primary headache disorder characterized by recurrent moderate to severe headache episodes, typically unilateral and pulsating in quality, often accompanied by nausea, photophobia, and phonophobia, and worsened by routine physical activity. A subset of patients experience aura, transient focal neurologic symptoms, most commonly visual, that precede or accompany the headache phase and are thought to reflect a wave of cortical spreading depression. The pathophysiology involves activation of the trigeminovascular system and release of vasoactive neuropeptides, including calcitonin gene-related peptide (CGRP), which has become an important target for newer therapies.
+
+Acute treatment for mild to moderate attacks often begins with NSAIDs or acetaminophen, while moderate to severe attacks typically require a triptan, such as sumatriptan, which acts as a serotonin receptor agonist to constrict cranial vessels and inhibit neuropeptide release. Newer acute options include CGRP receptor antagonists ("gepants") for patients who cannot tolerate or do not respond to triptans, particularly those with cardiovascular contraindications to vasoconstrictive agents.
+
+Preventive therapy is considered for patients with frequent or disabling attacks and includes traditional agents originally developed for other indications, such as beta-blockers, certain anticonvulsants like topiramate, and tricyclic antidepressants, as well as migraine-specific monoclonal antibodies targeting CGRP or its receptor, administered by monthly or quarterly injection. Identification and avoidance of individual triggers, such as poor sleep, dehydration, and certain foods, along with headache diaries to track patterns, complement pharmacologic prevention strategies.

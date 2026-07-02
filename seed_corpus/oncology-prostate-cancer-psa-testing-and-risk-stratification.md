@@ -1,0 +1,9 @@
+# Prostate Cancer: PSA Testing and Risk Stratification
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Prostate cancer is the most common non-cutaneous malignancy diagnosed in men, arising from the glandular epithelium of the prostate and frequently detected incidentally or through prostate-specific antigen (PSA) screening, an enzyme produced by both benign and malignant prostate tissue whose blood levels can be elevated by cancer, benign prostatic hyperplasia, prostatitis, or recent instrumentation. Because PSA lacks specificity for malignancy, screening decisions involve shared decision-making that weighs the potential benefit of early detection against the risk of overdiagnosis and overtreatment of indolent tumors that may never cause symptoms.
+
+When PSA is elevated or a nodule is felt on digital rectal examination, further evaluation with multiparametric MRI and image-guided or systematic prostate biopsy establishes the diagnosis and grade. Tumor aggressiveness is characterized using the Gleason score, which sums the two most prevalent histologic growth patterns observed under the microscope, with higher combined scores indicating less differentiated, more aggressive disease; Gleason grading is increasingly reported alongside a simplified Grade Group system ranging from one to five.
+
+Management is highly individualized based on risk stratification, ranging from active surveillance with serial PSA testing and repeat biopsy for low-risk, localized disease, to surgery (radical prostatectomy) or radiation therapy with or without androgen deprivation therapy for intermediate- and high-risk localized disease. Metastatic prostate cancer is typically managed with androgen deprivation therapy, often combined with newer androgen receptor pathway inhibitors, since prostate cancer growth is characteristically driven by androgen signaling.

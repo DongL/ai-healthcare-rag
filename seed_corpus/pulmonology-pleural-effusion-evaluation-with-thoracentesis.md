@@ -1,0 +1,9 @@
+# Pleural Effusion: Evaluation with Thoracentesis
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Pleural effusion refers to the abnormal accumulation of fluid within the pleural space, the potential space between the visceral and parietal pleura, and can result from a wide range of cardiac, infectious, malignant, and inflammatory processes. On chest radiography, effusions classically blunt the costophrenic angle and may layer along the dependent lung base, while ultrasound offers superior sensitivity for small effusions and is routinely used to guide safe thoracentesis.
+
+A central step in evaluating a new, unexplained effusion is diagnostic thoracentesis, in which fluid is sampled and analyzed using Light's criteria to classify the effusion as a transudate or exudate. Transudative effusions, typically caused by conditions such as heart failure, cirrhosis, or nephrotic syndrome that alter hydrostatic or oncotic pressure, generally do not require extensive further pleural fluid workup once the systemic cause is identified. Exudative effusions, which arise from increased capillary permeability or impaired lymphatic drainage, warrant further evaluation for infection, malignancy, or inflammatory causes, guided by additional pleural fluid studies including cell count and differential, glucose, pH, Gram stain and culture, and cytology.
+
+A complicated parapneumonic effusion or empyema, suggested by a low pleural fluid pH, low glucose, or frank pus, typically requires tube thoracostomy drainage in addition to antibiotics, since infected fluid collections often fail to resolve with antibiotics alone. Large or recurrent malignant effusions may be managed with therapeutic thoracentesis, indwelling pleural catheters, or pleurodesis to control symptomatic reaccumulation.

@@ -1,0 +1,9 @@
+# Chronic Obstructive Pulmonary Disease: Diagnosis and Staging
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Chronic obstructive pulmonary disease (COPD) is a progressive, largely irreversible airflow limitation resulting from chronic bronchitis, emphysema, or a combination of both, most commonly caused by long-term cigarette smoking, though occupational exposures and, less commonly, alpha-1 antitrypsin deficiency contribute to disease in some patients. Emphysema involves destruction of alveolar walls and loss of elastic recoil, while chronic bronchitis reflects chronic mucus hypersecretion and airway inflammation, and most patients have overlapping features of both processes.
+
+Diagnosis requires spirometry demonstrating a post-bronchodilator FEV1/FVC ratio below 0.70, confirming persistent airflow obstruction that is not fully reversible, distinguishing COPD from asthma in most cases. The GOLD staging system classifies severity based on the degree of airflow limitation (FEV1 percent predicted) and further incorporates symptom burden and exacerbation history to guide treatment intensity. Common symptoms include chronic productive cough, exertional dyspnea, and, in advanced disease, hypoxemia and cor pulmonale.
+
+Bronchodilators, including long-acting muscarinic antagonists such as tiotropium and long-acting beta-agonists, form the foundation of maintenance therapy, with inhaled corticosteroids added in patients with frequent exacerbations or an eosinophilic phenotype. Smoking cessation is the single most effective intervention to slow disease progression, and supplemental oxygen improves survival in patients with significant chronic hypoxemia. Pulmonary rehabilitation, vaccination against influenza and pneumococcus, and prompt treatment of acute exacerbations with bronchodilators, corticosteroids, and antibiotics when indicated round out comprehensive management.

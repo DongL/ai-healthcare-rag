@@ -1,0 +1,9 @@
+# Sepsis Recognition and Early Management
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Sepsis is a life-threatening syndrome of organ dysfunction caused by a dysregulated host response to infection, distinguishing it from uncomplicated infection by evidence of physiologic decompensation such as altered mental status, hypotension, tachypnea, or laboratory abnormalities including an elevated lactate. Septic shock, the most severe manifestation, is defined by persistent hypotension requiring vasopressor support to maintain adequate mean arterial pressure despite fluid resuscitation, combined with a serum lactate greater than 2 mmol/L, and carries substantial mortality risk.
+
+Early recognition relies on clinical suspicion combined with screening tools such as the quick Sequential Organ Failure Assessment (qSOFA), which flags patients with altered mentation, respiratory rate of 22 or higher, or systolic blood pressure of 100 mmHg or lower as being at higher risk of poor outcomes from infection. Once sepsis is suspected, management follows a time-sensitive bundle: obtaining blood cultures before antibiotics when feasible, measuring serum lactate, administering broad-spectrum empiric antibiotics within the first hour, and initiating rapid intravenous crystalloid fluid resuscitation.
+
+Antibiotic selection is guided by the suspected source of infection, local resistance patterns, and patient-specific risk factors for resistant organisms, with de-escalation to narrower-spectrum therapy once culture results and clinical response are known. Source control, such as drainage of an abscess or removal of an infected catheter, is essential whenever an identifiable focus is present, since antibiotics alone are often insufficient to control infection arising from an undrained source.

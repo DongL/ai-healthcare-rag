@@ -1,0 +1,9 @@
+# Epilepsy and Seizure Disorders: Classification and Antiseizure Therapy
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+A seizure is a transient episode of abnormal, excessive, or synchronous neuronal electrical activity in the brain, which may produce motor, sensory, autonomic, or cognitive symptoms depending on the region involved, while epilepsy refers to a chronic tendency toward recurrent, unprovoked seizures. Seizures are broadly classified as focal, arising from a localized network within one hemisphere and potentially spreading to become bilateral, or generalized, involving widespread networks from onset, with subtypes including tonic-clonic, absence, and myoclonic seizures.
+
+Diagnostic evaluation typically includes a detailed clinical history, often supplemented by witness accounts, along with electroencephalography (EEG) to characterize interictal or ictal epileptiform activity, and brain MRI to identify structural causes such as mesial temporal sclerosis, prior stroke, or tumor. A single unprovoked seizure does not automatically warrant a diagnosis of epilepsy, which generally requires either two or more unprovoked seizures or a single seizure with a substantially elevated risk of recurrence based on imaging or EEG findings.
+
+Antiseizure medications, such as levetiracetam, lamotrigine, and valproate, are selected based on seizure type, patient comorbidities, and side-effect profile, aiming for seizure freedom with minimal adverse effects using the lowest effective dose, ideally as monotherapy when possible. Status epilepticus, a prolonged seizure or series of seizures without full recovery between them, is a neurologic emergency requiring rapid treatment, typically beginning with intravenous benzodiazepines followed by a second-line antiseizure agent if seizures persist, given the risk of ongoing neuronal injury with prolonged seizure activity.

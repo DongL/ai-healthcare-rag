@@ -1,0 +1,9 @@
+# Principles of Computed Tomography and Contrast Use
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Computed tomography (CT) generates cross-sectional images by rotating an X-ray source and detector array around the patient and mathematically reconstructing attenuation data into axial, coronal, and sagittal images. Compared with conventional radiography, CT offers superior contrast resolution and eliminates the superimposition of overlying structures, making it invaluable for evaluating trauma, acute abdominal pain, pulmonary nodules, and staging of malignancy. Its principal drawback is a substantially higher radiation dose than plain radiography, which has driven adoption of dose-reduction protocols and "as low as reasonably achievable" (ALARA) principles, particularly in children and patients requiring serial imaging.
+
+Iodinated intravenous contrast is frequently administered to enhance vascular structures and highlight the differential enhancement patterns of organs and lesions; timing of image acquisition relative to contrast injection, such as arterial versus portal venous phase, is chosen based on the clinical question. Contrast administration requires screening for risk factors including significant renal impairment, given the association between iodinated contrast and contrast-induced nephropathy, and prior contrast reactions, which may warrant premedication or use of an alternative imaging modality.
+
+CT angiography has become a first-line tool for evaluating suspected pulmonary embolism, aortic dissection, and cerebrovascular disease, offering rapid acquisition and high spatial resolution. Radiologists must balance diagnostic yield against cumulative radiation exposure and contrast-related risk when recommending CT versus alternative modalities such as ultrasound or MRI.

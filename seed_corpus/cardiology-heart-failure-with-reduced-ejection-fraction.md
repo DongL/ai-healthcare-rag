@@ -1,0 +1,9 @@
+# Heart Failure with Reduced Ejection Fraction
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Heart failure with reduced ejection fraction (HFrEF) is defined by a left ventricular ejection fraction of 40% or less, typically measured by transthoracic echocardiography, together with symptoms such as dyspnea, orthopnea, fatigue, and lower extremity edema resulting from impaired systolic pumping function. Common etiologies include ischemic heart disease following myocardial infarction, long-standing hypertension, dilated cardiomyopathy, and valvular disease. Elevated natriuretic peptide levels, particularly BNP or NT-proBNP, support the diagnosis and help distinguish cardiac from non-cardiac causes of breathlessness.
+
+Guideline-directed medical therapy for HFrEF now rests on four pillars: beta-blockers such as carvedilol or metoprolol succinate, angiotensin receptor-neprilysin inhibitors such as sacubitril-valsartan (or an ACE inhibitor when the combination is unavailable), mineralocorticoid receptor antagonists such as spironolactone, and SGLT2 inhibitors such as dapagliflozin, which have demonstrated mortality and hospitalization benefits independent of diabetes status. Loop diuretics like furosemide are used for symptomatic volume management but do not alter long-term prognosis. Device therapy, including implantable cardioverter-defibrillators and cardiac resynchronization therapy, is considered in select patients with persistently reduced ejection fraction despite optimized medical therapy.
+
+Patients are counseled on daily weight monitoring, sodium and fluid restriction, and prompt reporting of weight gain or worsening dyspnea, since decompensated heart failure is a leading cause of hospital readmission. Regular follow-up echocardiography helps track ventricular remodeling and guides titration of therapy.

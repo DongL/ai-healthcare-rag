@@ -1,0 +1,9 @@
+# Primary Adrenal Insufficiency (Addison's Disease)
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Primary adrenal insufficiency occurs when the adrenal cortex is damaged or destroyed and can no longer produce adequate cortisol and, often, aldosterone. In resource-rich settings, autoimmune adrenalitis is the leading cause, while infectious causes such as tuberculosis remain important globally. Because cortisol normally suppresses corticotropin-releasing hormone and adrenocorticotropic hormone (ACTH) through negative feedback, primary disease is accompanied by markedly elevated ACTH, which can cause the hyperpigmentation of skin and mucous membranes classically associated with Addison's disease.
+
+Clinical features are often insidious and nonspecific, including fatigue, weight loss, anorexia, nausea, and orthostatic hypotension, which can make early diagnosis challenging. Salt craving and hyperkalemia may occur when aldosterone deficiency coexists, reflecting impaired renal sodium retention and potassium excretion. An acute adrenal crisis, precipitated by physiologic stress such as infection or surgery in an undiagnosed or under-treated patient, presents with severe hypotension, shock, vomiting, and abdominal pain, and constitutes a medical emergency.
+
+Diagnosis relies on a morning serum cortisol level and, when equivocal, a cosyntropin (ACTH) stimulation test showing an inadequate cortisol rise. Treatment requires lifelong glucocorticoid replacement, typically with hydrocortisone dosed to mimic the body's natural diurnal rhythm, plus fludrocortisone to replace mineralocorticoid activity when aldosterone is deficient. Patients are educated to increase glucocorticoid dosing during illness or surgical stress ("stress dosing") and to carry emergency injectable hydrocortisone, since failure to do so can precipitate a life-threatening adrenal crisis.

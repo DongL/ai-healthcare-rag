@@ -1,0 +1,9 @@
+# Type 1 Diabetes and Insulin Replacement Therapy
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Type 1 diabetes mellitus results from autoimmune destruction of insulin-producing pancreatic beta cells, leading to an absolute deficiency of endogenous insulin. It most often presents in childhood or adolescence but can develop at any age, sometimes as latent autoimmune diabetes in adults. Presenting symptoms frequently include polyuria, polydipsia, unintended weight loss, and, in more severe cases, diabetic ketoacidosis, a life-threatening state of hyperglycemia, ketosis, and metabolic acidosis that requires urgent treatment with intravenous fluids, insulin infusion, and electrolyte correction, particularly close monitoring of potassium.
+
+Lifelong exogenous insulin replacement is required for survival. Most patients use a basal-bolus regimen combining a long-acting basal insulin, such as insulin glargine, to suppress hepatic glucose output between meals, with rapid-acting insulin analogs, such as insulin lispro or insulin aspart, administered before meals to cover carbohydrate intake. Many patients now use continuous subcutaneous insulin infusion pumps paired with continuous glucose monitors, and hybrid closed-loop systems can automatically adjust basal delivery based on real-time glucose trends.
+
+Ongoing management requires patient education in carbohydrate counting, insulin dose adjustment, and recognition of hypoglycemia symptoms such as tremor, diaphoresis, and confusion. Long-term surveillance mirrors that of type 2 diabetes, including regular hemoglobin A1c measurement, retinal examinations, and screening for microvascular and macrovascular complications, since durable glycemic control substantially reduces the risk of nephropathy, neuropathy, and retinopathy.

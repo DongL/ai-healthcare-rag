@@ -144,7 +144,7 @@ Health check endpoint for monitoring.
   "status": "healthy",
   "version": "1.0.0",
   "timestamp": "2025-10-26T10:30:45.123456",
-  "index_size": 4
+  "index_size": 250
 }
 ```
 
@@ -163,6 +163,10 @@ Environment variables are managed via [.env](.env) and validated through [config
 | `OPENAI_API_KEY` | - | OpenAI API key for answer generation |
 | `EMBEDDING_MODEL` | all-MiniLM-L6-v2 | Sentence transformer model |
 | `OPENAI_MODEL` | gpt-4o-mini | OpenAI model for answers |
+| `DATA_DIR` | seed_corpus | Directory scanned for source documents (.txt, .md, .pdf) |
+| `CHUNK_SIZE` | 512 | Target chunk size in characters |
+| `CHUNK_OVERLAP` | 64 | Character overlap between consecutive chunks |
+| `REINDEX_ON_CORPUS_CHANGE` | true | Rebuild the index when the corpus changes |
 | `USE_CHROMADB` | true | Use ChromaDB (falls back to FAISS) |
 | `CHROMA_HOST` | chromadb | ChromaDB service hostname |
 | `CHROMA_PORT` | 8000 | ChromaDB service port |
@@ -173,17 +177,39 @@ Environment variables are managed via [.env](.env) and validated through [config
 
 ```
 RAG_healthcare/
-├── rag_app.py              # Main FastAPI application
-├── config.py               # Configuration management
-├── requirements.txt        # Python dependencies
-├── Dockerfile             # Multi-stage production build
-├── docker-compose.yml     # Service orchestration
-├── .env                   # Environment variables
-├── data/                  # Document storage (optional)
-└── README.md              # This file
+├── rag_app.py                    # Main FastAPI application
+├── ingest.py                     # Document ingestion pipeline (discover → parse → chunk)
+├── config.py                     # Configuration management
+├── scripts/
+│   └── generate_seed_corpus.py   # Regenerates the synthetic corpus
+├── seed_corpus/                  # Shipped synthetic corpus (default DATA_DIR)
+├── data/                         # Real documents (git-ignored; mount for production)
+├── tests/                        # Unit tests (pytest)
+├── requirements.txt              # Python dependencies
+├── Dockerfile                    # Multi-stage production build
+├── docker-compose.yml            # Service orchestration
+├── .env                          # Environment variables
+└── README.md                     # This file
 ```
 
 ## Key Implementation Details
+
+### Document Ingestion
+
+Documents are loaded from a directory at startup by the pipeline in [`ingest.py`](ingest.py):
+
+1. **Discover** — recursively find `.txt`, `.md`, and `.pdf` files under `DATA_DIR`.
+2. **Parse** — read text/markdown directly; extract PDF text via `pypdf` (best-effort — a PDF is skipped with a warning if `pypdf` is unavailable).
+3. **Chunk** — deterministic recursive-character splitting (`CHUNK_SIZE` characters with `CHUNK_OVERLAP` overlap), preserving character offsets so every chunk is traceable back to its source document.
+4. **Index** — embed and load into ChromaDB/FAISS. A corpus fingerprint is stored with the collection so a changed corpus is automatically re-indexed on restart.
+
+Two document locations are supported:
+
+- **`seed_corpus/`** — a shipped, clearly-synthetic, de-identified corpus. It is the default `DATA_DIR`, so the app runs out of the box. Regenerate it with:
+  ```bash
+  python scripts/generate_seed_corpus.py
+  ```
+- **`data/`** — for real documents. It is **git-ignored** (real healthcare data must never be committed) and mounted read-only in `docker-compose.yml`. Point the app at it with `DATA_DIR=data`.
 
 ### Vector Store Selection
 - **ChromaDB**: Primary choice for persistent, production-grade vector storage with HTTP client support

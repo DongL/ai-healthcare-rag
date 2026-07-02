@@ -1,0 +1,9 @@
+# Aortic Stenosis and the Role of Echocardiography
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Aortic stenosis is the narrowing of the aortic valve orifice, most often caused in older adults by progressive calcific degeneration of a trileaflet valve, or in younger patients by a congenitally bicuspid valve that calcifies earlier in life. As the valve area shrinks, the left ventricle must generate higher pressures to maintain forward flow, resulting in compensatory concentric hypertrophy. The classic symptom triad of severe aortic stenosis is exertional angina, syncope, and dyspnea, and the onset of symptoms marks a critical inflection point after which survival declines sharply without intervention.
+
+Transthoracic echocardiography is the primary diagnostic tool, providing the aortic valve area, mean transvalvular gradient, and peak jet velocity, along with assessment of left ventricular size, wall thickness, and ejection fraction. A physical examination finding of a harsh crescendo-decrescendo systolic murmur radiating to the carotids should prompt echocardiographic evaluation. Cardiac catheterization or CT angiography may be used to further characterize valve anatomy or coexisting coronary artery disease prior to intervention.
+
+Once severe aortic stenosis becomes symptomatic, valve replacement is indicated, as medical therapy does not alter the natural history of the disease. Transcatheter aortic valve replacement (TAVR) has become an option across the surgical risk spectrum, delivering a bioprosthetic valve via catheter, typically through the femoral artery, while surgical aortic valve replacement remains preferred in certain younger or lower-risk patients, particularly those with concomitant conditions requiring open surgery.

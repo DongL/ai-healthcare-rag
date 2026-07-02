@@ -1,0 +1,9 @@
+# Community-Acquired Pneumonia: Diagnosis and Antibiotic Selection
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Community-acquired pneumonia (CAP) is an acute lower respiratory tract infection acquired outside the hospital setting, typically presenting with fever, productive cough, pleuritic chest pain, and dyspnea, along with a new infiltrate on chest radiography. Streptococcus pneumoniae remains the most commonly identified bacterial pathogen, though atypical organisms such as Mycoplasma pneumoniae and Legionella pneumophila, along with respiratory viruses, account for a significant proportion of cases, particularly in outpatients.
+
+Severity assessment tools such as the CURB-65 score, which incorporates confusion, blood urea nitrogen, respiratory rate, blood pressure, and age over 65, help guide decisions about outpatient management versus hospital admission. Outpatient treatment for previously healthy adults typically involves a macrolide such as azithromycin or doxycycline, while patients with comorbidities or in regions with significant macrolide resistance often receive a respiratory fluoroquinolone such as levofloxacin or combination therapy with a beta-lactam plus a macrolide. Hospitalized patients, particularly those requiring intensive care, warrant broader empiric coverage and closer monitoring for complications such as parapneumonic effusion or empyema.
+
+Blood cultures, sputum culture, and urinary antigen testing for pneumococcus and Legionella may be obtained in more severe presentations to guide targeted therapy and support antimicrobial stewardship by allowing de-escalation once a pathogen is identified. Vaccination against Streptococcus pneumoniae and influenza remains an important preventive measure, particularly in older adults and those with chronic cardiopulmonary disease.

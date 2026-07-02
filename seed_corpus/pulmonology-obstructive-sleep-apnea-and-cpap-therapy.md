@@ -1,0 +1,9 @@
+# Obstructive Sleep Apnea and CPAP Therapy
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Obstructive sleep apnea (OSA) is characterized by repeated episodes of partial or complete upper airway collapse during sleep, leading to intermittent hypoxemia, fragmented sleep architecture, and characteristic loud snoring with witnessed pauses in breathing, often reported by a bed partner. Risk factors include obesity, a narrow oropharyngeal airway, retrognathia, and male sex, and untreated OSA is associated with excessive daytime sleepiness, impaired concentration, and an increased long-term risk of hypertension, atrial fibrillation, and other cardiovascular complications.
+
+Diagnosis is established through polysomnography, either performed in a sleep laboratory or, for appropriately selected patients, through validated home sleep apnea testing, which quantifies the apnea-hypopnea index, the number of apneic and hypopneic events per hour of sleep, used to classify severity as mild, moderate, or severe. Screening questionnaires, such as the STOP-BANG tool, help identify patients at elevated risk who warrant formal testing.
+
+Continuous positive airway pressure (CPAP) therapy, which delivers pressurized air through a mask to splint the airway open and prevent collapse, is the first-line treatment for moderate to severe OSA and has been shown to improve daytime sleepiness and reduce cardiovascular risk when used consistently. Alternative options for patients unable to tolerate CPAP include mandibular advancement oral appliances for milder disease, positional therapy, weight loss, and, in select anatomically appropriate patients, upper airway surgery or hypoglossal nerve stimulation. Adherence remains the principal challenge in long-term OSA management, and appropriate mask fitting and patient education substantially improve tolerance.

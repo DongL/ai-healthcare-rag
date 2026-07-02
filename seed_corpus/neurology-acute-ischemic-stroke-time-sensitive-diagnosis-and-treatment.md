@@ -1,0 +1,9 @@
+# Acute Ischemic Stroke: Time-Sensitive Diagnosis and Treatment
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Acute ischemic stroke results from sudden interruption of blood flow to a portion of the brain, most commonly due to thrombotic or embolic occlusion of a cerebral artery, leading to tissue ischemia and, if flow is not restored, infarction. Common presenting signs include sudden unilateral weakness or numbness, facial droop, slurred speech, and visual disturbance, often recognized clinically using the FAST mnemonic (face, arm, speech, time), and the National Institutes of Health Stroke Scale (NIHSS) is used to quantify deficit severity and guide treatment decisions.
+
+Noncontrast CT of the head is obtained emergently, primarily to exclude hemorrhage, since the treatments for ischemic and hemorrhagic stroke differ fundamentally. In eligible patients presenting within the appropriate time window from symptom onset, intravenous thrombolysis with a fibrinolytic agent such as alteplase or tenecteplase can dissolve the occluding clot and improve functional outcomes, though it carries a risk of symptomatic intracranial hemorrhage that must be weighed against expected benefit. For patients with large vessel occlusion, mechanical thrombectomy, in which a catheter-based device retrieves or aspirates the clot, has extended the treatment window for selected patients, particularly when advanced imaging demonstrates a favorable ratio of salvageable tissue to already-infarcted core.
+
+After the acute phase, management focuses on secondary prevention through antiplatelet or anticoagulant therapy depending on the presumed mechanism, blood pressure and lipid management, and identification of the underlying cause, such as atrial fibrillation or carotid stenosis, alongside early initiation of rehabilitation services to maximize functional recovery.

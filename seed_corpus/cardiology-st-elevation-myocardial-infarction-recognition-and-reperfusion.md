@@ -1,0 +1,9 @@
+# ST-Elevation Myocardial Infarction: Recognition and Reperfusion
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+ST-elevation myocardial infarction (STEMI) results from abrupt, complete occlusion of a coronary artery, most commonly due to rupture of an atherosclerotic plaque with superimposed thrombus formation, leading to transmural myocardial ischemia and necrosis if flow is not promptly restored. Patients classically present with substernal chest pressure radiating to the arm or jaw, diaphoresis, and dyspnea, although presentations in women, older adults, and patients with diabetes are frequently atypical. The diagnostic hallmark is ST-segment elevation in two or more contiguous electrocardiographic leads, accompanied by a rise in cardiac biomarkers such as high-sensitivity troponin.
+
+Time to reperfusion is the dominant determinant of outcome, encapsulated in the phrase "time is muscle." Primary percutaneous coronary intervention (PCI), in which an interventional cardiologist opens the occluded vessel with balloon angioplasty and typically places a drug-eluting stent, is the preferred reperfusion strategy when it can be performed within the guideline-recommended window at a capable facility. When timely PCI is not available, fibrinolytic therapy with agents such as tenecteplase may be administered, followed by transfer for angiography.
+
+Adjunctive medical therapy includes dual antiplatelet therapy with aspirin and a P2Y12 inhibitor such as ticagrelor, anticoagulation, high-intensity statin therapy, and beta-blockade once the patient is hemodynamically stable. After the acute event, cardiac rehabilitation and secondary prevention measures, including risk factor modification and adherence to guideline-directed medical therapy, reduce the risk of recurrent events and improve long-term survival.

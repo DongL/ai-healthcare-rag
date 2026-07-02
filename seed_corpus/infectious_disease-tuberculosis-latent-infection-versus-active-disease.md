@@ -1,0 +1,9 @@
+# Tuberculosis: Latent Infection Versus Active Disease
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Tuberculosis (TB) is caused by Mycobacterium tuberculosis, an acid-fast bacillus transmitted through inhalation of airborne droplet nuclei, most often affecting the lungs but capable of involving nearly any organ system. Following initial infection, most immunocompetent individuals contain the organism within granulomas, resulting in latent tuberculosis infection, a state in which the bacteria remain viable but dormant and the person is asymptomatic and non-contagious. A minority of infected individuals, particularly those who are immunosuppressed, progress to active disease either soon after exposure or after years of latency through reactivation.
+
+Active pulmonary TB classically presents with a chronic productive cough, hemoptysis, night sweats, fever, and unintentional weight loss, with classic chest radiographic findings of upper lobe cavitary disease. Diagnosis relies on sputum acid-fast bacillus smear and culture, with culture remaining the gold standard, alongside more rapid nucleic acid amplification testing. Latent infection is identified through the tuberculin skin test or interferon-gamma release assays, neither of which can distinguish latent infection from active disease on their own, making chest imaging and clinical assessment essential in anyone testing positive.
+
+Active disease treatment typically involves a multidrug regimen, most commonly isoniazid, rifampin, pyrazinamide, and ethambutol during an initial intensive phase, to reduce the emergence of drug resistance, followed by a continuation phase of fewer agents. Latent infection is treated with shorter regimens, such as isoniazid with rifapentine, to reduce the lifetime risk of progression to active, transmissible disease.

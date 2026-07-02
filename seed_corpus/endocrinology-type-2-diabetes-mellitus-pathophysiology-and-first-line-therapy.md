@@ -1,0 +1,9 @@
+# Type 2 Diabetes Mellitus: Pathophysiology and First-Line Therapy
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Type 2 diabetes mellitus arises from a combination of peripheral insulin resistance and progressive pancreatic beta-cell dysfunction, resulting in chronic hyperglycemia. Unlike type 1 diabetes, most patients retain some endogenous insulin production, particularly early in the disease course, and the condition is strongly associated with obesity, sedentary lifestyle, and genetic predisposition. Diagnosis is established by a fasting plasma glucose of 126 mg/dL or higher, a hemoglobin A1c of 6.5% or higher, or an abnormal oral glucose tolerance test, with confirmation on repeat testing in asymptomatic individuals.
+
+Metformin remains the preferred first-line pharmacologic agent for most patients, acting primarily by reducing hepatic gluconeogenesis and improving peripheral insulin sensitivity, with the added benefits of weight neutrality and a low risk of hypoglycemia when used as monotherapy. For patients with established cardiovascular disease, heart failure, or chronic kidney disease, guidelines increasingly favor early addition of a GLP-1 receptor agonist such as semaglutide or an SGLT2 inhibitor such as empagliflozin, both of which have demonstrated cardiovascular and renal protective effects beyond glucose lowering. Sulfonylureas and insulin remain options when additional glycemic control is needed.
+
+Comprehensive management extends beyond glucose control to include blood pressure and lipid management, annual dilated eye examinations to screen for retinopathy, foot examinations to detect early neuropathy, and urine albumin-to-creatinine ratio testing to monitor for diabetic nephropathy, reflecting the multisystem nature of chronic hyperglycemic damage.

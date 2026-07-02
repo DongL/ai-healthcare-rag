@@ -27,3 +27,7 @@ constraint-dependencies = [
     "torch>=2.0.0,<2.3.0",  # PyTorch 2.2.x is last with macOS x86_64 wheels
 ]
 package = false
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

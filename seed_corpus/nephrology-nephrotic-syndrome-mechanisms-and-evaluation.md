@@ -1,0 +1,9 @@
+# Nephrotic Syndrome: Mechanisms and Evaluation
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Nephrotic syndrome results from significant damage to the glomerular filtration barrier, allowing excessive loss of protein, principally albumin, into the urine, and is defined by the combination of heavy proteinuria (generally greater than 3.5 grams per day in adults), hypoalbuminemia, peripheral edema, and often hyperlipidemia. The edema of nephrotic syndrome results from a combination of reduced plasma oncotic pressure from hypoalbuminemia and renal sodium retention, and can become quite severe, involving the periorbital region, extremities, and, in advanced cases, the abdominal cavity as ascites.
+
+In adults, common causes include membranous nephropathy, focal segmental glomerulosclerosis, and diabetic nephropathy, while minimal change disease is the predominant cause in children and generally carries a favorable prognosis with corticosteroid treatment. Evaluation typically includes quantification of proteinuria through a urine protein-to-creatinine ratio or 24-hour urine collection, a comprehensive metabolic panel, lipid panel, and serologic testing directed at secondary causes such as lupus or diabetes, with kidney biopsy often required in adults to establish the specific underlying glomerular lesion and guide treatment.
+
+Patients with nephrotic syndrome are at increased risk of venous thromboembolism due to urinary loss of anticoagulant proteins, and of infection due to loss of immunoglobulins, both of which warrant clinical vigilance. Treatment combines disease-specific immunosuppressive therapy, guided by biopsy findings, with supportive measures including ACE inhibitors or ARBs to reduce proteinuria, diuretics for edema, and lipid-lowering therapy, since nephrotic-range proteinuria itself independently predicts progressive kidney function decline over time.
