@@ -1,0 +1,9 @@
+# Multiple Sclerosis: Diagnosis and Disease-Modifying Therapy
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Multiple sclerosis (MS) is a chronic autoimmune disease of the central nervous system in which the immune system attacks myelin, the insulating sheath surrounding nerve fibers, resulting in inflammatory demyelinating lesions disseminated across the brain and spinal cord. The disease most commonly follows a relapsing-remitting course at onset, characterized by discrete episodes of neurologic dysfunction followed by partial or complete recovery, though a substantial proportion of untreated patients eventually transition to a secondary progressive phase marked by gradual, steady decline.
+
+Common presenting symptoms include optic neuritis with painful vision loss, sensory disturbances, limb weakness, and bladder dysfunction, reflecting the wide range of central nervous system pathways that can be affected. Diagnosis relies on demonstrating dissemination of demyelinating lesions in both space and time, most often established through brain and spinal cord MRI showing characteristic periventricular, juxtacortical, and spinal cord lesions, supported by cerebrospinal fluid analysis demonstrating oligoclonal bands not present in serum.
+
+Disease-modifying therapies, including injectable agents such as interferon-beta, oral agents such as fingolimod and dimethyl fumarate, and high-efficacy infusion therapies such as natalizumab and ocrelizumab, aim to reduce relapse frequency and slow accumulation of disability by modulating or suppressing the aberrant immune response. Acute relapses causing significant functional impairment are often treated with high-dose corticosteroids to hasten recovery. Given the variability in disease course and treatment response, ongoing monitoring with periodic MRI and clinical assessment guides therapy adjustments over time.

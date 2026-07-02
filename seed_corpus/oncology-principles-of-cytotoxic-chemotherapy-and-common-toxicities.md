@@ -1,0 +1,9 @@
+# Principles of Cytotoxic Chemotherapy and Common Toxicities
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Cytotoxic chemotherapy encompasses a broad class of agents that interfere with cellular replication and division, exploiting the relatively higher proliferation rate of malignant cells compared with most normal tissue, though this selectivity is imperfect and accounts for many treatment-related side effects. Major drug classes include alkylating agents, which damage DNA directly, antimetabolites such as methotrexate and fluorouracil, which interfere with nucleotide synthesis, and antimicrotubule agents such as paclitaxel, which disrupt the mitotic spindle required for cell division. Combination regimens exploiting agents with different mechanisms and non-overlapping toxicities are commonly used to improve efficacy while managing side effects.
+
+Because chemotherapy also affects rapidly dividing normal tissues, common toxicities include myelosuppression, with resulting neutropenia raising the risk of serious infection, mucositis, alopecia, and nausea, the latter now substantially mitigated by modern antiemetic regimens combining agents such as 5-HT3 receptor antagonists, NK1 receptor antagonists, and corticosteroids. Febrile neutropenia, defined as fever occurring in a patient with a significantly reduced neutrophil count, is a medical emergency requiring prompt empiric broad-spectrum antibiotics due to the risk of rapid progression to sepsis.
+
+Treatment plans typically alternate cycles of chemotherapy with recovery periods to allow normal tissues, particularly bone marrow, to regenerate between doses. Growth factor support, such as filgrastim, may be used to reduce the duration and severity of neutropenia in regimens with significant myelosuppressive potential, and dose adjustments are routinely made based on observed toxicity and laboratory monitoring.

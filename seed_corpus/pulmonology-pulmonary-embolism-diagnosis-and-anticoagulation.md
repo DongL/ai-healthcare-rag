@@ -1,0 +1,9 @@
+# Pulmonary Embolism: Diagnosis and Anticoagulation
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Pulmonary embolism (PE) occurs when a thrombus, most often originating in the deep veins of the legs or pelvis, dislodges and travels through the venous circulation to occlude a pulmonary artery or its branches, impairing gas exchange and potentially causing acute right ventricular strain. Risk factors include prolonged immobility, recent surgery, malignancy, pregnancy, estrogen-containing medications, and inherited or acquired hypercoagulable states, and clinical presentation ranges from mild dyspnea and pleuritic chest pain to hemodynamic collapse in massive PE.
+
+Clinical probability scoring systems, such as the Wells score, help determine the appropriate diagnostic pathway; low-probability patients may be evaluated with a D-dimer blood test, which, if negative, has a high enough negative predictive value to reasonably exclude PE, while higher-probability patients typically proceed directly to CT pulmonary angiography, the current diagnostic standard, which directly visualizes filling defects within the pulmonary vasculature. Ventilation-perfusion scanning remains a useful alternative, particularly in patients with contraindications to iodinated contrast.
+
+Hemodynamically stable patients are treated with anticoagulation, most often a direct oral anticoagulant such as apixaban or rivaroxaban, which prevents thrombus propagation and allows the body's endogenous fibrinolytic system to gradually resolve the clot. Patients with hemodynamic instability from massive PE may require systemic thrombolysis or catheter-based thrombectomy to rapidly restore pulmonary blood flow. Evaluation for an underlying provoking factor and consideration of the appropriate duration of anticoagulation, ranging from several months to indefinite therapy, follows the acute treatment phase.

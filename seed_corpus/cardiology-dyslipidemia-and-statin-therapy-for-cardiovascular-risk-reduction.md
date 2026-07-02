@@ -1,0 +1,9 @@
+# Dyslipidemia and Statin Therapy for Cardiovascular Risk Reduction
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Dyslipidemia refers to abnormal concentrations of circulating lipoproteins, most importantly elevated low-density lipoprotein cholesterol (LDL-C), which promotes atherosclerotic plaque formation within arterial walls and is a major modifiable risk factor for coronary artery disease, ischemic stroke, and peripheral arterial disease. A fasting or non-fasting lipid panel measuring total cholesterol, LDL-C, HDL-C, and triglycerides remains the primary screening tool, often supplemented by calculation of a ten-year atherosclerotic cardiovascular disease risk score that incorporates age, blood pressure, smoking status, and diabetes.
+
+Statins, such as atorvastatin and rosuvastatin, are the cornerstone of pharmacologic therapy, working by inhibiting HMG-CoA reductase, the rate-limiting enzyme in hepatic cholesterol synthesis, which upregulates LDL receptor expression and increases clearance of circulating LDL particles from the blood. High-intensity statin therapy is recommended for patients with established atherosclerotic cardiovascular disease and for many patients with diabetes or markedly elevated LDL-C. For patients who do not reach goal on maximally tolerated statin therapy, adjunctive agents such as ezetimibe, which blocks intestinal cholesterol absorption, or PCSK9 inhibitors, which enhance LDL receptor recycling, may be added.
+
+Statin therapy is generally well tolerated, though it can cause myalgias and, rarely, clinically significant myopathy or transaminitis, so baseline and follow-up liver function testing and symptom monitoring are common practice. Lifestyle measures, including dietary saturated fat reduction, weight management, and exercise, remain foundational alongside pharmacotherapy for comprehensive cardiovascular risk reduction.

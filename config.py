@@ -36,6 +36,12 @@ class Settings(BaseSettings):
     DEFAULT_RESULTS: int = 2
     GENERATE_ANSWER: bool = True  # Enable LLM answer generation
 
+    # Corpus / Ingestion Configuration
+    DATA_DIR: str = "seed_corpus"  # Directory scanned for source documents (.txt, .md, .pdf)
+    CHUNK_SIZE: int = 512  # Target chunk size in characters
+    CHUNK_OVERLAP: int = 64  # Character overlap between consecutive chunks
+    REINDEX_ON_CORPUS_CHANGE: bool = True  # Rebuild the index when the corpus fingerprint changes
+
     # Vector Store Configuration
     USE_CHROMADB: bool = True  # Set to False to use FAISS fallback
 

@@ -11,6 +11,9 @@ httptools==0.6.4
 sentence-transformers==3.2.1
 numpy==1.26.4
 transformers==4.46.3
+# Pin transitive pyarrow < 15: datasets 2.14.4 (pulled in by sentence-transformers)
+# calls pa.PyExtensionType, which pyarrow >= 15 removed. Fixes broken fresh builds (P1-4).
+pyarrow==14.0.2
 
 # Vector Databases
 chromadb==0.4.24
@@ -22,6 +25,7 @@ torch==2.5.1+cpu
 
 # Data processing
 pandas==2.2.3
+pypdf==5.1.0  # PDF text extraction for the ingestion pipeline
 
 # Optional: Advanced RAG features
 openai==1.54.4

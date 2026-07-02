@@ -1,0 +1,9 @@
+# HIV Infection: Antiretroviral Therapy and Monitoring
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Human immunodeficiency virus (HIV) is a retrovirus that infects and progressively depletes CD4-positive T lymphocytes, impairing cell-mediated immunity and, without treatment, eventually leading to acquired immunodeficiency syndrome (AIDS), a stage defined by a CD4 count below 200 cells per microliter or the occurrence of specific opportunistic infections and malignancies. Transmission occurs through sexual contact, exposure to infected blood, and perinatally from mother to child, and modern screening relies on combination antigen-antibody immunoassays followed by confirmatory testing.
+
+The cornerstone of management is combination antiretroviral therapy (ART), typically consisting of two nucleoside reverse transcriptase inhibitors paired with a third agent from a different drug class, most often an integrase strand transfer inhibitor such as dolutegravir due to its favorable efficacy and tolerability profile. Current guidelines recommend initiating ART promptly after diagnosis regardless of CD4 count, since durable viral suppression both preserves immune function and prevents transmission to others, an approach summarized as "treatment as prevention."
+
+Ongoing monitoring includes periodic HIV RNA viral load testing to confirm virologic suppression, CD4 count trends to assess immune recovery, and screening for ART-related metabolic and renal effects. Patients with advanced immunosuppression require prophylaxis against opportunistic infections such as Pneumocystis jirovecii pneumonia. Pre-exposure prophylaxis, using agents such as tenofovir-based regimens, is an important prevention strategy for individuals at ongoing substantial risk of acquiring HIV.

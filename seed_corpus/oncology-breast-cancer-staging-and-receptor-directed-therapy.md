@@ -1,0 +1,9 @@
+# Breast Cancer: Staging and Receptor-Directed Therapy
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Breast cancer arises from malignant transformation of ductal or lobular epithelial cells and is the most commonly diagnosed cancer in women worldwide. Diagnostic evaluation typically begins with mammography or ultrasound following detection of a palpable mass or a screening abnormality, with core needle biopsy providing tissue for histologic diagnosis and biomarker testing. Every invasive breast cancer is routinely tested for estrogen receptor (ER), progesterone receptor (PR), and human epidermal growth factor receptor 2 (HER2) status, since these markers guide both prognosis and treatment selection.
+
+Staging incorporates tumor size, regional lymph node involvement often assessed through sentinel lymph node biopsy, and the presence or absence of distant metastasis, following the TNM staging framework. Local therapy typically involves either breast-conserving surgery with adjuvant radiation or mastectomy, depending on tumor characteristics and patient preference. Systemic therapy is tailored to receptor status: hormone receptor-positive tumors are treated with endocrine therapy such as tamoxifen or aromatase inhibitors, HER2-positive tumors receive HER2-targeted monoclonal antibodies such as trastuzumab, and triple-negative tumors, which lack all three receptors, are generally treated with cytotoxic chemotherapy given the absence of a targetable receptor pathway.
+
+Multigene genomic assays can help identify which patients with early-stage, hormone receptor-positive, node-negative disease are likely to benefit from adjuvant chemotherapy versus endocrine therapy alone, refining treatment decisions beyond traditional clinicopathologic factors and helping many lower-risk patients safely avoid chemotherapy exposure.

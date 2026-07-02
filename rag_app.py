@@ -12,6 +12,7 @@ from openai import OpenAI
 from pydantic import BaseModel, Field, validator
 from sentence_transformers import SentenceTransformer
 
+import ingest
 from config import settings
 
 # Import vector stores
@@ -80,7 +81,7 @@ async def startup_event():
     logger.info(f"Debug mode: {settings.DEBUG}")
     logger.info(f"Allowed origins: {settings.ALLOWED_ORIGINS}")
     try:
-        global model, chroma_client, collection, faiss_index, faiss_documents, openai_client, use_chromadb
+        global model, chroma_client, collection, faiss_index, faiss_documents, faiss_metadatas, openai_client, use_chromadb
 
         # Initialize OpenAI client
         if settings.OPENAI_API_KEY:
@@ -95,13 +96,27 @@ async def startup_event():
         model = SentenceTransformer(settings.EMBEDDING_MODEL)
         logger.info("Model loaded successfully")
 
-        # Synthetic healthcare corpus (de-identified)
-        documents = [
-            "Patients with hypertension should monitor their blood pressure regularly.",
-            "Metformin is commonly prescribed as a first-line therapy for type 2 diabetes.",
-            "MRI is a non-invasive imaging technique often used to detect brain tumors.",
-            "COVID-19 vaccines have significantly reduced severe cases and mortality rates.",
-        ]
+        # Build the document corpus from files via the ingestion pipeline
+        logger.info(
+            f"Building corpus from '{settings.DATA_DIR}' "
+            f"(chunk_size={settings.CHUNK_SIZE}, overlap={settings.CHUNK_OVERLAP})"
+        )
+        corpus = ingest.build_corpus(
+            settings.DATA_DIR,
+            chunk_size=settings.CHUNK_SIZE,
+            chunk_overlap=settings.CHUNK_OVERLAP,
+        )
+        if corpus.num_chunks == 0:
+            raise RuntimeError(
+                f"No indexable documents found under '{settings.DATA_DIR}'. "
+                "Add .txt/.md/.pdf files or point DATA_DIR at a populated directory."
+            )
+        documents = corpus.texts
+        document_ids = corpus.ids
+        document_metadatas = corpus.metadatas
+        logger.info(
+            f"Corpus ready: {corpus.num_documents} documents -> {corpus.num_chunks} chunks"
+        )
 
         # Initialize vector store (ChromaDB with FAISS fallback)
         use_chromadb = False
@@ -109,6 +124,7 @@ async def startup_event():
         collection = None
         faiss_index = None
         faiss_documents = None
+        faiss_metadatas = None
 
         if settings.USE_CHROMADB and CHROMADB_AVAILABLE:
             try:
@@ -135,26 +151,53 @@ async def startup_event():
 
                 logger.info("ChromaDB client connected")
 
-                # Get or create collection
+                # Get or create collection; the corpus fingerprint is stored in
+                # collection metadata so a changed corpus can be detected on restart.
                 collection = chroma_client.get_or_create_collection(
                     name=settings.CHROMA_COLLECTION_NAME,
-                    metadata={"hnsw:space": settings.CHROMA_DISTANCE_METRIC}
+                    metadata={
+                        "hnsw:space": settings.CHROMA_DISTANCE_METRIC,
+                        "corpus_fingerprint": corpus.fingerprint,
+                    },
                 )
                 logger.info(f"Collection '{settings.CHROMA_COLLECTION_NAME}' ready")
 
+                existing = collection.count()
+                stored_fingerprint = (collection.metadata or {}).get("corpus_fingerprint")
+
+                # Rebuild the collection if the corpus changed since it was indexed.
+                if (
+                    existing > 0
+                    and stored_fingerprint != corpus.fingerprint
+                    and settings.REINDEX_ON_CORPUS_CHANGE
+                ):
+                    logger.info(
+                        f"Corpus changed since last index "
+                        f"({stored_fingerprint} -> {corpus.fingerprint}); rebuilding collection"
+                    )
+                    chroma_client.delete_collection(settings.CHROMA_COLLECTION_NAME)
+                    collection = chroma_client.get_or_create_collection(
+                        name=settings.CHROMA_COLLECTION_NAME,
+                        metadata={
+                            "hnsw:space": settings.CHROMA_DISTANCE_METRIC,
+                            "corpus_fingerprint": corpus.fingerprint,
+                        },
+                    )
+                    existing = 0
+
                 # Populate ChromaDB collection if empty
-                if collection.count() == 0:
+                if existing == 0:
                     logger.info("Populating ChromaDB collection...")
-                    embeddings = model.encode(documents).tolist()
+                    embeddings = model.encode(documents, batch_size=64).tolist()
                     collection.add(
                         embeddings=embeddings,
                         documents=documents,
-                        ids=[f"doc_{i}" for i in range(len(documents))],
-                        metadatas=[{"source": "synthetic", "index": i} for i in range(len(documents))]
+                        ids=document_ids,
+                        metadatas=document_metadatas,
                     )
-                    logger.info(f"Added {len(documents)} documents to ChromaDB")
+                    logger.info(f"Indexed {len(documents)} chunks into ChromaDB")
                 else:
-                    logger.info(f"Collection already contains {collection.count()} documents")
+                    logger.info(f"Collection already current with {existing} chunks")
 
                 use_chromadb = True
                 logger.info("Using ChromaDB as vector store")
@@ -171,10 +214,11 @@ async def startup_event():
             # Fallback to FAISS
             logger.info("Initializing FAISS fallback...")
             faiss_documents = documents
-            embeddings = np.array(model.encode(documents)).astype('float32')
+            faiss_metadatas = document_metadatas
+            embeddings = np.array(model.encode(documents, batch_size=64)).astype('float32')
             faiss_index = faiss.IndexFlatL2(embeddings.shape[1])
             faiss_index.add(embeddings)
-            logger.info(f"FAISS index built with {len(documents)} documents")
+            logger.info(f"FAISS index built with {len(documents)} chunks")
             logger.info("Using FAISS as vector store")
 
         logger.info("Application startup complete")

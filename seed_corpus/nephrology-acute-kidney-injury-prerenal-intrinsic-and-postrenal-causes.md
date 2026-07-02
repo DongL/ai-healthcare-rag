@@ -1,0 +1,9 @@
+# Acute Kidney Injury: Prerenal, Intrinsic, and Postrenal Causes
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Acute kidney injury (AKI) is defined by a rapid decline in kidney function over hours to days, reflected by a rise in serum creatinine, a fall in urine output, or both, and is conventionally classified by anatomic mechanism into prerenal, intrinsic, and postrenal causes. Prerenal AKI results from reduced renal perfusion, due to volume depletion, heart failure, or systemic hypotension, without direct structural kidney damage, and is typically reversible with restoration of adequate perfusion if addressed promptly. Postrenal AKI arises from obstruction of urine outflow, such as from prostatic enlargement, nephrolithiasis, or pelvic malignancy, and is often identified with renal ultrasound demonstrating hydronephrosis.
+
+Intrinsic AKI reflects direct damage to renal parenchyma, most commonly acute tubular necrosis from prolonged ischemia or nephrotoxin exposure, including certain antibiotics, iodinated contrast, and NSAIDs, but also includes acute interstitial nephritis, typically drug-induced, and various forms of glomerulonephritis. Urinalysis and microscopy can help distinguish these categories: muddy brown granular casts suggest acute tubular necrosis, while white blood cell casts and eosinophiluria may point toward interstitial nephritis.
+
+Management focuses on identifying and correcting the underlying cause, optimizing volume status, avoiding further nephrotoxic exposures, and adjusting medication dosing for reduced clearance. Indications for urgent dialysis in severe AKI include refractory hyperkalemia, severe metabolic acidosis, volume overload unresponsive to diuretics, uremic symptoms such as encephalopathy or pericarditis, and certain toxic ingestions, remembered by the mnemonic AEIOU.

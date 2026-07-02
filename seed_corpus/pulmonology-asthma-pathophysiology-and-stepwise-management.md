@@ -1,0 +1,9 @@
+# Asthma: Pathophysiology and Stepwise Management
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Asthma is a chronic inflammatory airway disease characterized by variable and reversible airflow obstruction, bronchial hyperresponsiveness, and airway inflammation driven predominantly by eosinophilic and mast cell-mediated processes in most patients. Common triggers include allergens, respiratory infections, exercise, cold air, and irritant exposures, and typical symptoms include wheezing, chest tightness, cough, and dyspnea that characteristically fluctuate over time and are often worse at night or early morning. Spirometry demonstrating an obstructive pattern that improves significantly after bronchodilator administration supports the diagnosis.
+
+Management follows a stepwise approach based on symptom frequency and control. Short-acting beta-agonists such as albuterol provide rapid relief of acute bronchospasm and are used as needed by nearly all patients, but current guidelines emphasize that most patients beyond the mildest category should also receive a controller medication, most commonly an inhaled corticosteroid, either alone or combined with a long-acting beta-agonist, to reduce airway inflammation and prevent exacerbations. Reliance on short-acting beta-agonists alone without anti-inflammatory therapy is now recognized as inadequate for most persistent asthma.
+
+For patients with severe, poorly controlled asthma despite optimized inhaled therapy, biologic agents targeting specific inflammatory pathways, such as anti-IgE or anti-interleukin-5 therapies, may achieve substantial reductions in exacerbation frequency. Written asthma action plans, correct inhaler technique, and identification and avoidance of individual triggers remain essential components of comprehensive long-term management, alongside periodic reassessment of control and step-up or step-down of therapy as needed.

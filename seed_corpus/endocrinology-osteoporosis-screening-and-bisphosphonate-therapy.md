@@ -1,0 +1,9 @@
+# Osteoporosis Screening and Bisphosphonate Therapy
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Osteoporosis is a skeletal disorder characterized by low bone mineral density and microarchitectural deterioration of bone tissue, resulting in increased bone fragility and susceptibility to fracture, particularly of the hip, vertebrae, and distal radius. It is more common in postmenopausal women due to the accelerated bone loss that follows estrogen decline, but also occurs in men and can be secondary to glucocorticoid use, hyperthyroidism, hyperparathyroidism, or prolonged immobilization.
+
+Screening is performed using dual-energy X-ray absorptiometry (DEXA), which reports bone mineral density as a T-score comparing the patient to a young healthy reference population; a T-score of -2.5 or lower at the hip or spine establishes the diagnosis, while a T-score between -1.0 and -2.5 defines osteopenia. The FRAX tool combines bone density with clinical risk factors, such as age, prior fracture, and glucocorticoid use, to estimate ten-year fracture risk and guide treatment decisions.
+
+First-line pharmacologic therapy typically involves oral bisphosphonates, such as alendronate or risedronate, which bind hydroxyapatite in bone and inhibit osteoclast-mediated resorption, thereby increasing bone density and reducing fracture risk. Patients are instructed to take these medications on an empty stomach with a full glass of water and remain upright for at least thirty minutes to reduce esophageal irritation. For patients with very high fracture risk or intolerance to bisphosphonates, alternatives include denosumab, a monoclonal antibody against RANKL, and anabolic agents such as teriparatide. Adequate calcium and vitamin D intake and weight-bearing exercise are recommended as adjuncts to any pharmacologic regimen.

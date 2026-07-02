@@ -1,0 +1,9 @@
+# Nephrolithiasis: Evaluation and Management of Kidney Stones
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Nephrolithiasis, the formation of kidney stones, occurs when urinary concentrations of stone-forming substances such as calcium, oxalate, and uric acid exceed their solubility, leading to crystal formation and aggregation within the urinary tract. Calcium oxalate stones are the most common type overall, though uric acid, struvite, and cystine stones occur less frequently and often point toward specific underlying metabolic or infectious conditions. Risk factors include inadequate fluid intake, high dietary sodium and animal protein intake, obesity, and certain metabolic disorders.
+
+The classic presentation is acute, severe, colicky flank pain that may radiate to the groin as the stone migrates down the ureter, frequently accompanied by nausea, vomiting, and gross or microscopic hematuria. Noncontrast CT of the abdomen and pelvis is the most sensitive imaging study for detecting stones and assessing size, location, and the presence of hydronephrosis, though renal ultrasound is often used preferentially, particularly in pregnant patients, to avoid radiation exposure.
+
+Most stones smaller than about 5 millimeters pass spontaneously with supportive care, including analgesia, hydration, and alpha-blocker therapy such as tamsulosin to facilitate ureteral passage. Larger stones or those causing persistent obstruction, infection, or refractory pain may require urologic intervention, including extracorporeal shock wave lithotripsy, ureteroscopy with laser lithotripsy, or percutaneous nephrolithotomy for large stone burdens. After an initial stone episode, metabolic evaluation and increased fluid intake are recommended to reduce recurrence risk, since recurrence is common without preventive measures.

@@ -1,0 +1,9 @@
+# Uncomplicated Urinary Tract Infection in Adults
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Urinary tract infection (UTI) refers to bacterial infection of the bladder (cystitis) or, when ascending, the kidney (pyelonephritis), and is among the most common bacterial infections encountered in outpatient practice, disproportionately affecting women due to a shorter urethra and its proximity to the perineum. Escherichia coli accounts for the large majority of uncomplicated cases, with other Enterobacteriaceae and Staphylococcus saprophyticus implicated less frequently. Typical symptoms of cystitis include dysuria, urinary frequency, urgency, and suprapubic discomfort, generally without fever, while pyelonephritis additionally presents with fever, flank pain, and costovertebral angle tenderness.
+
+Diagnosis of uncomplicated cystitis in a patient with classic symptoms is often made clinically or supported by urinalysis showing pyuria and bacteriuria, with urine culture reserved for recurrent infections, treatment failure, pregnancy, or suspected pyelonephritis. First-line antibiotic choices for uncomplicated cystitis include nitrofurantoin, trimethoprim-sulfamethoxazole where local resistance rates permit, and fosfomycin, generally given as a short course of three to seven days depending on the agent selected. Pyelonephritis typically requires a longer course, often with a fluoroquinolone or an oral agent following initial intravenous therapy in more severe cases, and may warrant imaging if there is concern for obstruction or abscess.
+
+Recurrent UTIs, complicated infections in men, or infections associated with catheters, structural abnormalities, or pregnancy require individualized evaluation, since treatment failure or progression to bacteremia and sepsis carries substantially higher morbidity in these populations.

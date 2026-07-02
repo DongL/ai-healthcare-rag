@@ -1,0 +1,9 @@
+# Magnetic Resonance Imaging: Physics and Clinical Applications
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Magnetic resonance imaging (MRI) uses a strong static magnetic field, radiofrequency pulses, and magnetic field gradients to align and perturb hydrogen protons within body tissue, generating detailed images based on differences in proton density and relaxation properties, without ionizing radiation. T1-weighted sequences are useful for demonstrating anatomy, with fat appearing bright and fluid appearing dark, while T2-weighted sequences highlight fluid and edema as bright signal, making them sensitive to inflammation, infarction, and many tumors. Additional sequences, such as diffusion-weighted imaging, are particularly valuable for detecting acute ischemic stroke within minutes of symptom onset.
+
+MRI's excellent soft-tissue contrast makes it the modality of choice for evaluating the brain and spinal cord, joints and ligaments, and many soft-tissue and hepatic lesions. Gadolinium-based contrast agents are often administered to improve lesion conspicuity and characterize enhancement patterns, though they must be used cautiously in patients with severely reduced kidney function because of a rare but serious association with nephrogenic systemic fibrosis.
+
+Because the technique relies on a powerful magnet, absolute contraindications include certain implanted ferromagnetic devices, and all patients and staff must be screened for pacemakers, aneurysm clips, cochlear implants, and metallic foreign bodies before entering the scanner room. Examinations typically take longer than CT and require patients to remain still, which can be challenging for claustrophobic or critically ill patients, occasionally necessitating sedation.

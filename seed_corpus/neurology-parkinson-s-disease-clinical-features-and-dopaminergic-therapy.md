@@ -1,0 +1,9 @@
+# Parkinson's Disease: Clinical Features and Dopaminergic Therapy
+
+*Synthetic educational content — not real patient data. Do not use for clinical decisions.*
+
+Parkinson's disease is a progressive neurodegenerative disorder resulting from loss of dopaminergic neurons in the substantia nigra, a midbrain structure critical to the regulation of voluntary movement, leading to the cardinal motor features of bradykinesia, resting tremor, rigidity, and postural instability. Non-motor symptoms, including anosmia, constipation, REM sleep behavior disorder, and depression, often precede the onset of motor symptoms by years and are increasingly recognized as integral to the disease rather than incidental findings.
+
+Diagnosis remains primarily clinical, based on the characteristic motor examination findings and their response to dopaminergic therapy, since no blood test or routine imaging study definitively confirms the diagnosis, although specialized imaging can help exclude alternative parkinsonian syndromes in atypical presentations. Levodopa, combined with carbidopa to prevent peripheral conversion to dopamine and reduce side effects such as nausea, remains the most effective symptomatic treatment for the motor features of Parkinson's disease, though long-term use is often complicated by motor fluctuations and dyskinesias as the disease progresses.
+
+Other pharmacologic options include dopamine agonists, monoamine oxidase type B inhibitors, and amantadine, often used earlier in the disease course or as adjuncts to levodopa. For patients with advanced disease and significant motor fluctuations despite optimized medication, deep brain stimulation, involving surgically implanted electrodes that modulate abnormal basal ganglia activity, can substantially improve motor symptoms and quality of life. Multidisciplinary care, including physical therapy and attention to non-motor symptoms, is an important component of long-term management.
